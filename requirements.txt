@@ -1,0 +1,8 @@
+transformers
+peft
+accelerate
+bitsandbytes
+wandb
+deepspeed
+datasets
+trl
